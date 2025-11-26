@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "nebula-notes",
+    "title": "Nebula Notes",
+    "short": "A sleek, cosmic-themed notes app with CRUD features.",
+    "features": [
+      "Create notes",
+      "Edit notes",
+      "Search",
+      "Responsive design"
+    ],
+    "demo": "https://notes-6zugaikhi-kishorit-29s-projects.vercel.app/",
+    "github": "https://github.com/KishorIT-29/notes-app"
+  },
+  {
+    "slug": "Blog",
+    "title": "Blog",
+    "short": "MDX blog with dynamic routes and SEO-friendly posts.",
+    "features": [
+      "Markdown support",
+      "Dynamic routes",
+      "SEO"
+    ],
+    "demo": "https://dnyx-blog-8w7v8vq0m-kishorit-29s-projects.vercel.app/",
+    "github": "https://github.com/KishorIT-29/Dnyx-Blog"
+  },
+  {
+    "slug": "starshop-commerce",
+    "title": "Starshop Commerce",
+    "short": "E-commerce site with product listing, cart & checkout flow.",
+    "features": [
+      "Product listing",
+      "Cart",
+      "Checkout"
+    ],
+    "demo": "#",
+    "github": "#"
+  },
+  {
+    "slug": "Dynx Tasks",
+    "title": "Dynx Tasks",
+    "short": "Minimal and elegant to-do app with filters.",
+    "features": [
+      "Add tasks",
+      "Complete tasks",
+      "Filters"
+    ],
+    "demo": "https://dnyx-to-do-list-edoq-4o5gkgfq3-kishorit-29s-projects.vercel.app/",
+    "github": "https://github.com/KishorIT-29/Dnyx-ToDoList"
+  }
+]

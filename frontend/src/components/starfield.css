@@ -1,0 +1,6 @@
+.starfield{position:fixed;inset:0;z-index:0;pointer-events:none}
+.sf-layer{position:absolute;inset:0;background-repeat:repeat;animation:moveStars linear infinite;opacity:0.6}
+.sf-small{background-image:radial-gradient(1px 1px at 20px 30px, rgba(255,255,255,0.9) 50%, transparent 51%);background-size:60px 60px;animation-duration:60s;opacity:0.28}
+.sf-mid{background-image:radial-gradient(1px 1px at 40px 60px, rgba(255,255,255,0.85) 50%, transparent 51%);background-size:120px 120px;animation-duration:100s;opacity:0.18}
+.sf-large{background-image:radial-gradient(2px 2px at 80px 40px, rgba(255,255,255,0.8) 50%, transparent 51%);background-size:260px 260px;animation-duration:160s;opacity:0.12}
+@keyframes moveStars{from{transform:translateY(0)}to{transform:translateY(-2000px)}}

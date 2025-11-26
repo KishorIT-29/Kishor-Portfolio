@@ -10,6 +10,7 @@
         "start:backend": "npm run start --prefix backend",
         "start:frontend": "npm run start --prefix frontend",
         "install:all": "npm install --prefix frontend && npm install --prefix backend",
+        "postinstall": "cd frontend && npm install",
         "build": "npm run build --prefix frontend"
     },
     "description": "Cosmic Portfolio - Full Stack Application"
